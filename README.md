@@ -1,4 +1,3 @@
-[![StandWithUkraineBanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
 <h1 align="center">Telegram File Stream Bot</h1>
 <p align="center">
   <a href="https://github.com/EverythingSuckz/TG-FileStreamBot">
@@ -7,11 +6,7 @@
   <p align="center">
     A Telegram bot to stream files to web
     <br />
-    <a href="https://telegram.dog/TG_FileStreamBot"><strong>Demo Bot »</strong></a>
-    <br />
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Report a Bug</a>
-    |
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Request Feature</a>
+    <a href="https://t.me/shark02_bot"><strong>Demo Bot »</strong></a>
   </p>
 </p>
 
